@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nubels
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js & Flutter
 
 <!---
 nubels/nubels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
